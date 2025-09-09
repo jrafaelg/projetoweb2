@@ -1,0 +1,15 @@
+{
+    "name": "aluno/projetoweb2",
+    "autoload": {
+        "psr-4": {
+            "Aluno\\Projetoweb2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rafael - if",
+            "email": "jrafaelg@gmail.com"
+        }
+    ],
+    "require": {}
+}
