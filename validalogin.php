@@ -11,7 +11,7 @@ try {
     $usuario = $_POST['usuario'];
     $senha = $_POST['senha'];
 
-    
+    // usuario: a' or  1=1  -- 
 
     $sql = "select * from tbusuarios t 
     where t.nome = '" . $usuario . "' 
